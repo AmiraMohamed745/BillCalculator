@@ -15,32 +15,18 @@ The **Bill Calculator** is a simple Android app developed using Kotlin and Jetpa
 - Share the bill details via text or as a screenshot.
 
 ## What I've Learned
-Throughout the development of this app, I've gained valuable knowledge and experience in various aspects of Android development. Here are some of the key learnings:
 
-### State and State Hoisting
-I've learned how to manage the state of the app using Jetpack Compose's state management mechanisms, ensuring that the UI reflects the latest data and user interactions.
+#### ✔ State and State Hoisting
 
-### Using ViewModels
-I've implemented ViewModels to separate the UI logic from the UI components, making the app more maintainable and testable.
+#### ✔ ViewModels
 
-### Sharing Data with Other Apps
-I've integrated the app with Android's sharing functionality, allowing users to easily share bill details with other apps like WhatsApp.
+#### ✔ Sharing Data with Other Apps
 
-### LiveData vs. StateFlow
-I've explored the differences between LiveData and StateFlow in terms of data flow and how they fit into the Jetpack Compose ecosystem.
+#### ✔ `LiveData` vs. `StateFlow`
 
-### collectAsState() vs. collectAsStateWithLifecycle
-I've understood the nuances between `collectAsState()` and `collectAsStateWithLifecycle()` when observing StateFlow data and handling lifecycle events.
+#### ✔ `collectAsState()` vs. `collectAsStateWithLifecycle`
 
-### Using Logcat and Debugger
-I've utilized Android Studio's debugging tools, including Logcat and the Debugger, to troubleshoot and improve the app's performance and functionality.
+#### ✔ Using Logcat and Debugger
 
-Feel free to explore the code and contribute to the development of this app. If you have any questions or suggestions, please don't hesitate to reach out!
 
-## How to Build and Run
-To build and run the app, follow these steps:
-1. Clone the repository to your local machine.
-2. Open the project in Android Studio.
-3. Build and run the app on an Android emulator or physical device.
 
-Happy coding!
