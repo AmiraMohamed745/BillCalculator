@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="bill_amount">Bill amount</string>
+    <string name="tip_percentage">Tip percentage</string>
+    <string name="round_bill">Round up bill?</string>
+    <string name="split_bill">Split bill?</string>
+    <string name="number_of_people">Number of people</string>
+    <string name="bill_total">Bill Total: %s</string>
+    <string name="bill_amount_summary">Bill amount: %s</string>
+    <string name="tip_percentage_summary">Tip percentage: %s</string>
+    <string name="number_of_people_summary">Number of people: %s</string>
+    <string name="share_bill">Share Bill</string>
+    <string name="share_as_text">Share text</string>
+    <string name="share_as_image">Share image</string>
+</resources>
